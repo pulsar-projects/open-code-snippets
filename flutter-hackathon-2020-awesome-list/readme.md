@@ -4,7 +4,7 @@
 
 ## Contents
 
-- [Section](#Awesome-Apps)
+- [Awesome-Apps](#Awesome-Apps)
 
 ## Awesome Apps
 
