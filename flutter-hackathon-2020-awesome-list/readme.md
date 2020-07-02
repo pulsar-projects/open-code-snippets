@@ -58,6 +58,7 @@
 - [Retro Windows 95](https://github.com/justinenerio/retro95) - Iconic Windows 95 right from your browser ([video](https://youtu.be/RPbrfjCqSTw))
 - [Retro Windows 98](https://github.com/sabinbajracharya/retro-windows-98) - in Flutter web ([video](https://youtu.be/ipPXTmWPI6A))
 - [Royal Game of Ur](https://github.com/annamunhoz/royalgameofur) - The oldest boardgame in your hand. An easy way to have fun with your family during social distancing. ([video](https://youtu.be/8moXo9L9zno))
+- [Save the planet](https://github.com/loushou/save_the_planet)  - An original retro planet defense game, created in 24 hours, by a single dev, using the Flutter framework. Destroy the Coronavirus! SAVE THE PLANET! ([video](https://www.youtube.com/watch?v=WJp9g_XM_f4))
 - [ShopQ](https://github.com/nurmukhametdaniyar/ShopQ) - During quarantine shops are crowded - decrease number of queues and show danger zones ([video](https://youtu.be/xsNtOdSV_c4))
 - [ShopHack](https://github.com/H-u-a-t/shophack) -Scanning the barcode and integrate with online shopping apps ([video](https://youtu.be/_8BMh0q7RQs))
 - [Space Travel](https://github.com/Antriadus/HackatonApp2020) - Space Travel app is like Uber but for spaceships ([demo app](https://hackaton2020-7b8ee.web.app/#/))
@@ -68,7 +69,6 @@
 - [Watered](https://github.com/ameysunu/watered) - Watered is an app that will detect any sort of water leakage in a household and also calls upon plumbers if needed. ([video](https://youtu.be/v5fa8zSpDqg))
 - [Winamp Music](https://github.com/ishandeveloper/WinAMP_Flutter) - This is just an attempt to recreate that same WinAMP nostalgic experience, we've all experienced before, using #flutter . ([video](https://youtu.be/3VSRPd4DqVQ))
 - [Xplore](https://github.com/Tomison-E/Xplore) - The exploration of Nature with wildlife in focus. Get information regarding the maintenance of wildlife and support. ([video](https://youtu.be/iAhzxUtX_C8))
-
 
 ## Contribute
 
