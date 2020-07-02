@@ -12,6 +12,7 @@
 - [buffetlocator](https://github.com/MendyMarcus/LocatorBuffet) - An app to find & place food around your city
 - [Bubble Tasker](https://github.com/RobertBrunhage/bubble-tasker) - Its sole purpose is to make you calm and focused on your tasks ([demo app](https://bubble-tasker.codemagic.app/#/)) ([video](https://youtu.be/SK9qVOc8cuQ))
 - [C1O2](https://github.com/suvansh-rana/koders-flutter) - futuristic app which calculates your carbon footprint
+- [Cheffresh](https://github.com/FreshOver/cheffresh) Home cooks can get back in business, safely and efficiently. They cook food in bulk, fresh for a collection time. Neighbours reserve food. ([video](https://youtu.be/zl8voaFNOcE))
 - [CleanStreets](https://github.com/TheN00bs/Clean-Streets) - Go Green, Digitalization and Eco Friendly (Google API Maps SDK for Android Mongo DB, PyMongo Firebase Authentication Flask Python Server)
 - [Codiv-2078](https://github.com/Co-div/codiv-2078) - Scan various devices and earn points for the device they scanned. ([video](https://youtu.be/8YyDhZxYeOs))
 - [Cyberpunk 2020](https://github.com/codesolutions101/cyberpunk2020) - One for all accessibility app with Futuristic UI ([video](https://youtu.be/pESkEwdqtX8))
@@ -19,16 +20,19 @@
 - [Cyborg Prime](https://github.com/RemiDormoy/CyberPizza) - Cyborg Prime  lets you shop the latest, freshest cybernetic parts in town and place order with its OK CYBORG technology ([video](https://youtu.be/WC5iHslmfDU))
 - [Cyber Widget](https://github.com/eli1stark/cyberwidget_hack_20/) - Our project is a platform for Flutter developers which gives them the opportunity to share their work. ([video](https://youtu.be/THqFzhEeZPE))
 - [Cyberpunk 2020](https://github.com/codesolutions101/cyberpunk2020) - One for all accessibility app with Futuristic UI ([video](https://youtu.be/pESkEwdqtX8))
+- [DOSChat](https://github.com/miralshahvolansys/DOSChat) In attempt to give a nostalgic retro feel to popular real-time chat apps, we have designed a DOS theme based real-time chat application. ([video](https://youtu.be/0-XDcH7TDQI))
 - [Earth Sweeper](https://github.com/FlutterHack/earth-sweeper) - A classic Windows 95 minesweeper ([video](https://youtu.be/oXNTzFM5zqI))
 - [Engage](https://github.com/pixelaGT/engage) - In 2020 comunities are using blockchain plattforms to gain value from its activities. In 2077 someone might exploit a glitch to take it all. ([video](https://youtu.be/mK8yjlKAaYk))
 - [e-Toilet Paper Hoarder](https://github.com/kwanjames0/anti-toilet-paper-hoarder-flutter) - Helps reduce toilet paper cravings during the pandemic ([video](https://youtu.be/S-Zyh1VfdIs))
 - [Flame and Watch](https://github.com/fireslime/flame_and_watch) - Flame and watch is a fantasy console/engine made in Flutter and Flame, inspired by olds Nintendo's consoles. ([video](https://youtu.be/tTaqfJLl7mE))
 - [Flutter3310](https://github.com/atavci/flutter3310) - Retro nokia phone
+- [Flutter Game Kid](https://github.com/eralpkaraduman/FlutterGameKid) - Flutter Game Kid: GameBoy recreated with Flutter ([video](https://youtu.be/lI7775DWzE8))
 - [Food share](https://gitlab.com/Abhi_Ghaskata/flutterhackathon/-/tree/master) - share Excessive food with the help of nearby volunteer ([video](https://youtu.be/r3ZPLkkpXS4))
 - [Funway Learning](https://github.com/TechPowerGirls/funway_learning) - Due to the Covid-19, Most of the parents are facing issues to keep their kids learning at home. We have come up with one stop solution. ([video](https://youtu.be/CnARFpPTkck))
 - [Flutterband Radio](https://github.com/FlutterHack20/FlutterBand/) - Flutter built retro cyberpunk CB Radio App for Hack20 Flutter Hackathon. Speech recognition, auto translation, sounds and gesture controlled flare animations. BloC pattern with firebase realtime DB requests. ([video](www.youtube.com/watch?v=gak9beyncw4))
 - [Game Kid](https://github.com/eralpkaraduman/FlutterGameKid) - GameBoy recreated with Flutter ([video](https://youtu.be/lI7775DWzE8))
 - [GhostRigger](https://github.com/Float-like-a-dash-Sting-like-a-dart/GhostRigger) - Cyberpunk-inspired puzzle game prototype ([video](https://youtu.be/yOZAUicGDXc))
+- [Google Think](https://github.com/sampathbalivada/google_think/) - This Flutter application is a simulation of a probable future where communication with electronic devices happens using Brain Waves. ([video](https://youtu.be/pV1rh_8rIoE))
 - [Great Awaiy](https://github.com/dhruvilp/hack20_greatawait) - We were so impressed by the technologies we have seen in the WestWorld so we decided to build one of the WestWorld UI in Flutter ([video](https://youtu.be/fETjNLKxjIo))
 - [GreenRide](https://github.com/masewo/green_ride) - reduce your ecological footprint; travel to work by bicycle ([video](https://youtu.be/xaM4GaPW_6o))
 - [Greenify](https://github.com/aryasurya21/greenify) - Incentives you do eco-friendly tasks, turns your cashbacks and discounts
@@ -41,6 +45,7 @@
 - [One Roof](https://github.com/dvmjoshi/oneroof) - One roof  is an app where you can watch and learn about all the aspects ([video](https://youtu.be/bFaWHGPklyA))
 - [Optr](https://github.com/leoafarias/optr) - Recover all your credentials from memory? Easy to remember and impossible to guess unique passwords ([video](https://youtu.be/Rj_sCCrTOHU))
 - [Polargram](https://github.com/transmissionsdev/polargram) - Instagram like it's 1995 ([video](https://youtu.be/KvzgKPYvero))
+- [Recycling Tensorflow](https://github.com/dahidalgo/FlutterHack20) - Use ML with TensorFlow with tflite widget, to capture an image and recognize wich type of garbage is like plastic and give recycling ideas ([video](https://youtu.be/7NyLblWqvHY))
 - [Relic Bazaar](https://github.com/himanshusharma89/relic_bazaar) - Vintage items shop ([video](https://youtu.be/VMmXUt3utVo))
 - [Retro Paint](https://github.com/sushmitkumarpatil/retro_paint) - A rich retro windows UI based painter application using Flutter. ([video](https://youtu.be/Ad9ttn6Y2Ec))
 - [Retro Windows 95](https://github.com/justinenerio/retro95) - Iconic Windows 95 right from your browser ([video](https://youtu.be/RPbrfjCqSTw))
@@ -53,6 +58,8 @@
 - [Tidy-App](https://github.com/samisnotinsane/orion_flutterhack20) - Get rewarded for keeping your local environment clean ([video](https://youtu.be/hfZQmf0G9F0))
 - [tretror](https://github.com/sanjul/Tretror) - Why anyone need to tweet when they can "CRaWwwW!" ([video](https://youtu.be/OS9FWoO--60))
 - [Waifu.ai](https://github.com/ItsOran/waifu.ai-hack20-flutter) - Chatbot Project, uses Dialogflow for auto generated replies, and AWS (Polly, S3, SNS, and more) for Text to Speech
+- [Watered](https://github.com/ameysunu/watered) - Watered is an app that will detect any sort of water leakage in a household and also calls upon plumbers if needed. ([video](https://youtu.be/v5fa8zSpDqg))
+- [Winamp Music](https://github.com/ishandeveloper/WinAMP_Flutter) - This is just an attempt to recreate that same WinAMP nostalgic experience, we've all experienced before, using #flutter . ([video](https://youtu.be/3VSRPd4DqVQ))
 
 ## Contribute
 
