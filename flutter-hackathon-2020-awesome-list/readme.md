@@ -16,6 +16,7 @@
 - [Chrono](https://github.com/cosmicRover/chrono) - Chrono bridges the gap between sci-fi and reality by taking users on a journey through time and space with unique and creative rides. ([video](https://youtu.be/NILQBTgGyqs))
 - [CleanStreets](https://github.com/TheN00bs/Clean-Streets) - Go Green, Digitalization and Eco Friendly (Google API Maps SDK for Android Mongo DB, PyMongo Firebase Authentication Flask Python Server)
 - [Codiv-2078](https://github.com/Co-div/codiv-2078) - Scan various devices and earn points for the device they scanned. ([video](https://youtu.be/8YyDhZxYeOs))
+- [Corona DOOM](https://github.com/dikatok/flutter-hack-2020) - Lacking anything to do at home? Play Corona-DOOM. Hunt Coronavirus monsters in AR !!! ([videp](https://youtu.be/Fv7ac98xk7I))
 - [Cyberpunk 2020](https://github.com/codesolutions101/cyberpunk2020) - One for all accessibility app with Futuristic UI ([video](https://youtu.be/pESkEwdqtX8))
 - [Cyber Robo Builder](https://github.com/viveky259259/cyber_robo_maker) - pre-packaged assets in flutter application by simply drag and drop feature ([video](https://youtu.be/-UHMdeaeDDA))
 - [Cyborg Prime](https://github.com/RemiDormoy/CyberPizza) - Cyborg Prime  lets you shop the latest, freshest cybernetic parts in town and place order with its OK CYBORG technology ([video](https://youtu.be/WC5iHslmfDU))
