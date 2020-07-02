@@ -41,7 +41,7 @@
 - [teachME](https://github.com/robertodevs/teachme) - Help people around the world to get incomes throught share the knowledge. ([video](https://youtu.be/HmeZzNzHCu8))
 - [Hacube](https://github.com/likang/Hacube) - Rubik's cube written in Flutter and yes, It's 3D ! ([video](https://youtu.be/-Dd-tQKp1ug))
 - [Love is Blue(LIB)](https://github.com/CDSoftwaresJA/loveisblue) - Social media platform powered by Bluetooth Low Energy Technology
-
+- [FlutterBand](https://github.com/FlutterHack20/FlutterBand) - CyberPunk CB Radio with speech recognition & auto-translation ([video](https://youtu.be/GAk9beyNCW4))
 
 ## Contribute
 
