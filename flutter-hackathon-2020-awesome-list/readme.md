@@ -9,6 +9,7 @@
 ## Awesome Apps
 
 - [Atomica](https://github.com/Astrallis/Flutter-Hackathon--Hack20) - A Quarantine Partner, Will give you movies and games suggestions along with some news updates. So Quarantine and chill and Stay Safe. ([video](https://youtu.be/x1bU0ZfxXvs))
+- [beyond - Uber x SpaceX(concept)](https://github.com/ParthS28/uber-spacex-beyond-concept) - Futuristic app with a simple UI that investigates the concept of interplanetary space travel available at your fingertips. [Video](https://www.youtube.com/watch?v=jPuyYw9jrVE)
 - [buffetlocator](https://github.com/MendyMarcus/LocatorBuffet) - An app to find & place food around your city
 - [Bubble Tasker](https://github.com/RobertBrunhage/bubble-tasker) - Its sole purpose is to make you calm and focused on your tasks ([demo app](https://bubble-tasker.codemagic.app/#/)) ([video](https://youtu.be/SK9qVOc8cuQ))
 - [C1O2](https://github.com/suvansh-rana/koders-flutter) - futuristic app which calculates your carbon footprint
