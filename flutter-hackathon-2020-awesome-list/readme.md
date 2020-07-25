@@ -53,6 +53,7 @@
 - [Ocean Animal Rescue](https://github.com/Term1tCZ/flutterRescue) - Ocean Animal Rescue saves sea animals in trouble. Just click and the local community helps animals to survive. ([video](https://youtu.be/p_zrU_qxa2g))
 - [One Roof](https://github.com/dvmjoshi/oneroof) - One roof  is an app where you can watch and learn about all the aspects ([video](https://youtu.be/bFaWHGPklyA))
 - [Optr](https://github.com/leoafarias/optr) - Recover all your credentials from memory? Easy to remember and impossible to guess unique passwords ([video](https://youtu.be/Rj_sCCrTOHU))
+- [Plan-et-B Game](https://github.com/tsinis/plan_et_b) - A 3D-like PWA game running in browser. With Wing Commander (1990) gameplay. There is Iron Man like holo. 3D interface with music and SFX ([video](https://youtu.be/I6B1PfaIxM4))
 - [Polargram](https://github.com/transmissionsdev/polargram) - Instagram like it's 1995 ([video](https://youtu.be/KvzgKPYvero))
 - [Recycling Tensorflow](https://github.com/dahidalgo/FlutterHack20) - Use ML with TensorFlow with tflite widget, to capture an image and recognize wich type of garbage is like plastic and give recycling ideas ([video](https://youtu.be/7NyLblWqvHY))
 - [Recyclomedia](https://github.com/Iconicto/recyclomedia) - How to protect our world from pollution? Recyclopedia a community-driven platform that motivates people to stand against pollution together. ([video](https://youtu.be/Uo_uK0PCxnU))
